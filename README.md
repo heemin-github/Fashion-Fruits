@@ -2,7 +2,6 @@
 
 team memebers : 김준모, 김창희, 이지연, 정희민
 
-----
 ## 의류 데이터 Detection & Segmentation
 
 -------
@@ -22,3 +21,5 @@ https://dacon.io/competitions/official/235672/overview/
         </div>
   <img width = "200" src = "https://user-images.githubusercontent.com/68838305/100975766-e0975700-3581-11eb-88a3-d05be27bb9bc.png"     
 </div>
+
+
